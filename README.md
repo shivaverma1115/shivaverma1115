@@ -1,88 +1,26 @@
-<p align="center"><img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"  alt="Coding" width="100%"height="500"></p>
+<h1 align="center">Hi 👋, I'm Shiva Verma</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+<img align = "right" width = "400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaverma1115&label=Profile%20views&color=0e75b6&style=flat" alt="shivaverma1115" /> </p>
 
-<h2 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/Bharat-Shaw" target="_blank" rel="noopener noreferrer">Bharat Shaw</a>.
-</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
+- 🌱 I’m currently learning frontend *HTML, CSS, JS, React*
+
+- 📫 How to reach me *shivaverma1115@gmail.com*
+
+- ⚡ Fun fact *I am funny 😁😉.*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<h2><a href="https://shivaverma1115.github.io/">🌍 | Portfolio </a></h2>
+<a href="https://linkedin.com/in/shiva-verma-7a8450248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva-verma-7a8450248" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shivaverma1115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivaverma1115" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Passionate MERN Full Stack Developer. Expert in MongoDB, Express.js, React, and Node.js. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<!-- new file -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaverma1115&show_icons=true&locale=en&layout=compact" alt="shivaverma1115" /></p>
 
-## 🏆 Trophies :
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bharat-Shaw&theme=onedark" alt="vishalll069" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivaverma1115&show_icons=true&locale=en" alt="shivaverma1115" /></p>
 
-## 👨‍💻 TECH STACK :
-
-<div align="center" style="display: flex; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-</div>
-
-## ✅ Github Stats :
-
-<div align="center" style="display: flex; flex-wrap: wrap;">
-
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Bharat-Shaw&theme=neon&border_radius=2.7&show_icons=true" alt="Bharat-Shaw" />
-  
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat-Shaw&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Bharat-Shaw" />
-  
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat-Shaw&theme=neon&border_radius=2.7" alt="Bharat-Shaw" />
-  
-</div>
-
-<h2>🌍 Connect with me :</h2>
-   <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/bharat-shaw-4b5b76274/" target="blank">
-            <img align="center"
-                src="https://img.icons8.com/3d-fluency/94/linkedin.png"
-                alt="https://www.linkedin.com/in/bharat-shaw-4b5b76274/" width="40px" />
-        </a>
-        <a href="https://github.com/Bharat-Shaw" target="blank">
-            <img align="center"
-                src="https://img.icons8.com/3d-fluency/94/github.png"
-                alt="https://github.com/Bharat-Shaw" width="40px"/>
-        </a>
-    </p>
-    <h2>❤ Views and Followers :</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Bharat-Shaw/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=Bharat-Shaw" >
-    </a>
-    <a href="https://github.com/Bharat-Shaw?tab=followers">
-        <img src="https://img.shields.io/github/followers/Bharat-Shaw?label=Followers&style=social" alt="GitHub Badge">
-    </a>
-    <hr />
-    <h2><a href="https://Bharat-Shaw.github.io/">🌍 | Portfolio </a></h2>
-
-<!--
-**Bharat-Shaw/Bharat-Shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaverma1115&" alt="shivaverma1115" /></p>
